@@ -1,0 +1,6 @@
+tensorflow
+logging
+numpy
+matplotlib
+keras-tuner
+scikit-learn
