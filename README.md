@@ -5,7 +5,7 @@
 This is a college project and the text of the project can be found in **`Project.pdf`** (Serbian language).  
 Additionally, there is required **`Project report.pdf`** (also in Serbian language, but it contains useful screenshots).
 
-The necessary Python modules/packages are listed in **`requirements.txt`**.
+The necessary Python modules/packages are listed in the **`requirements.txt`**.
 
 ## Dataset
 
